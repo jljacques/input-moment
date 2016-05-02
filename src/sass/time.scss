@@ -1,7 +1,7 @@
 @import 'variables';
 
 .m-time {
-  color: @color-white;
+  color: $color-white;
   padding-top: 50px;
 
   .showtime {
@@ -12,7 +12,7 @@
     display: inline-block;
     font-size: 32px;
     font-weight: bold;
-    color: @color-blue;
+    color: $color-blue;
     width: 32px;
     height: 65px;
     line-height: 65px;
@@ -23,7 +23,7 @@
     position: relative;
     left: -10px;
     font-size: 15px;
-    color: @color-blue;
+    color: $color-blue;
     margin-top: 7px;
     margin-bottom: 10px;
   }
@@ -38,7 +38,7 @@
     display: inline-block;
     font-size: 38px;
     line-height: 65px;
-    background-color: @color-blue;
+    background-color: $color-blue;
     border-radius: 3px;
     text-align: center;
   }

@@ -1,5 +1,5 @@
-require('../src/less/input-moment.less');
-require('./app.less');
+require('../src/sass/input-moment.scss');
+require('./app.scss');
 
 var moment = require('moment');
 var React = require('react');

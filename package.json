@@ -44,10 +44,11 @@
     "github-pages-deploy": "0.0.3",
     "json-loader": "^0.5.4",
     "less": "^2.5.3",
-    "less-loader": "^2.2.1",
     "less-plugin-clean-css": "^1.5.1",
+    "node-sass": "^3.6.0",
+    "sass-loader": "^3.2.0",
     "style-loader": "^0.13.0",
-    "webpack": "^1.12.3",
+    "webpack": "^1.13.0",
     "webpack-dev-server": "^1.14.0"
   },
   "dependencies": {
